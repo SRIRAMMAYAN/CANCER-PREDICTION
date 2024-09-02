@@ -1,0 +1,1001 @@
+Patient_ID,Age,Gender,Symptoms,Medical_History,Ethnicity,Tumor_Size_cm,Lymph_Node_Involvement,Cancer_Type,Generation_Report
+1,18,Male,Lump in breast,History of smoking,Asian,3,Yes,Prostate,Yes
+2,59,Male,Weight loss,History of smoking,Black,5,Yes,Lymphoma,Yes
+3,31,Female,Fatigue,None,White,3,Yes,Breast,No
+4,37,Male,Weight loss,History of smoking,Black,3,No,Melanoma,Yes
+5,55,Female,Persistent cough,Diabetes,Hispanic,3,Yes,Ovarian,No
+6,32,Female,Skin changes,History of smoking,Hispanic,3,Yes,Melanoma,No
+7,17,Female,Lump in breast,None,Hispanic,5,No,Prostate,No
+8,51,Female,Lump in breast,History of smoking,Hispanic,5,Yes,Melanoma,Yes
+9,43,Male,Lump in breast,None,White,2,Yes,Pancreatic,Yes
+10,41,Female,Weight loss,Previous ovarian cysts,Black,4,No,Breast,Yes
+11,53,Male,Fatigue,History of smoking,White,2,No,Leukemia,Yes
+12,75,Female,Nausea,None,Black,4,No,Breast,No
+13,66,Male,Nausea,Diabetes,White,2,No,Lung,No
+14,22,Female,Abdominal pain,Previous ovarian cysts,Asian,5,Yes,Lung,No
+15,49,Female,Skin changes,Hypertension,Black,4,Yes,Leukemia,Yes
+16,59,Male,Weight loss,Diabetes,Asian,4,No,Colorectal,Yes
+17,31,Male,Persistent cough,None,Hispanic,4,No,Kidney,Yes
+18,16,Male,Persistent cough,None,Asian,3,No,Lung,No
+19,68,Male,Fatigue,None,Asian,1,No,Colorectal,Yes
+20,70,Female,Weight loss,Diabetes,White,4,No,Colorectal,Yes
+21,57,Male,Persistent cough,Hypertension,Asian,4,Yes,Pancreatic,Yes
+22,60,Male,Fatigue,History of smoking,Asian,1,No,Prostate,No
+23,28,Male,Lump in breast,Hypertension,White,5,No,Ovarian,No
+24,65,Male,Lump in breast,Diabetes,Black,5,Yes,Kidney,No
+25,79,Male,Weight loss,Previous ovarian cysts,White,1,Yes,Melanoma,No
+26,21,Male,Weight loss,Previous ovarian cysts,Black,4,Yes,Lung,No
+27,41,Female,Lump in breast,Hypertension,Hispanic,3,No,Prostate,Yes
+28,40,Female,Lump in breast,None,Black,3,No,Melanoma,Yes
+29,50,Male,Fatigue,Hypertension,Black,4,Yes,Breast,No
+30,60,Female,Weight loss,None,White,2,Yes,Breast,No
+31,17,Male,Fatigue,Previous ovarian cysts,Asian,2,Yes,Pancreatic,No
+32,21,Male,Persistent cough,Diabetes,White,5,No,Ovarian,Yes
+33,24,Female,Lump in breast,Diabetes,Hispanic,1,No,Lung,Yes
+34,76,Male,Weight loss,None,White,1,No,Leukemia,Yes
+35,57,Male,Fatigue,Previous ovarian cysts,Hispanic,4,Yes,Kidney,No
+36,76,Female,Fatigue,History of smoking,Black,1,No,Breast,No
+37,69,Female,Persistent cough,History of smoking,Asian,3,No,Prostate,Yes
+38,40,Male,Nausea,Diabetes,Asian,5,Yes,Lung,Yes
+39,21,Female,Weight loss,History of smoking,Hispanic,3,Yes,Prostate,Yes
+40,47,Male,Weight loss,Diabetes,Black,3,Yes,Lung,No
+41,80,Female,Skin changes,Hypertension,Black,5,No,Lung,No
+42,67,Female,Skin changes,Previous ovarian cysts,White,3,No,Breast,No
+43,70,Male,Persistent cough,Diabetes,Asian,4,No,Lymphoma,No
+44,16,Female,Skin changes,None,Hispanic,4,Yes,Melanoma,Yes
+45,16,Female,Weight loss,Diabetes,White,3,No,Kidney,No
+46,52,Female,Weight loss,Diabetes,White,1,Yes,Pancreatic,No
+47,64,Male,Lump in breast,Diabetes,Hispanic,4,No,Melanoma,No
+48,25,Female,Skin changes,None,White,4,Yes,Lung,Yes
+49,63,Male,Fatigue,None,Asian,4,No,Kidney,Yes
+50,61,Male,Nausea,Previous ovarian cysts,White,3,Yes,Lung,Yes
+51,60,Male,Lump in breast,History of smoking,Hispanic,1,No,Lung,No
+52,34,Female,Abdominal pain,Previous ovarian cysts,Asian,1,Yes,Lung,Yes
+53,26,Female,Weight loss,Diabetes,Hispanic,3,No,Melanoma,No
+54,25,Female,Lump in breast,Previous ovarian cysts,Black,4,No,Ovarian,No
+55,56,Female,Persistent cough,Diabetes,Black,3,No,Lung,No
+56,27,Male,Fatigue,Hypertension,Hispanic,1,No,Lung,Yes
+57,40,Male,Skin changes,History of smoking,Black,1,Yes,Ovarian,Yes
+58,40,Male,Persistent cough,Hypertension,Black,4,Yes,Lung,No
+59,46,Male,Nausea,Diabetes,White,3,Yes,Lung,No
+60,55,Female,Skin changes,None,Black,5,Yes,Ovarian,Yes
+61,40,Male,Fatigue,Diabetes,Asian,5,Yes,Kidney,Yes
+62,40,Female,Lump in breast,Previous ovarian cysts,Hispanic,4,Yes,Kidney,Yes
+63,76,Female,Persistent cough,None,White,4,Yes,Leukemia,No
+64,32,Female,Abdominal pain,History of smoking,Hispanic,5,Yes,Ovarian,No
+65,22,Female,Abdominal pain,Previous ovarian cysts,Black,2,No,Breast,No
+66,40,Female,Nausea,History of smoking,Hispanic,1,Yes,Ovarian,No
+67,31,Female,Persistent cough,Hypertension,Hispanic,2,No,Leukemia,Yes
+68,65,Male,Persistent cough,Hypertension,Black,3,No,Colorectal,No
+69,64,Male,Fatigue,None,Hispanic,3,No,Ovarian,No
+70,22,Female,Lump in breast,History of smoking,Asian,2,Yes,Lung,Yes
+71,71,Female,Abdominal pain,Hypertension,Asian,4,No,Kidney,Yes
+72,26,Female,Skin changes,History of smoking,Black,1,No,Colorectal,No
+73,49,Female,Skin changes,Hypertension,Hispanic,3,Yes,Colorectal,Yes
+74,45,Female,Persistent cough,Diabetes,Hispanic,3,Yes,Breast,No
+75,63,Female,Fatigue,Previous ovarian cysts,Hispanic,1,Yes,Prostate,No
+76,29,Male,Weight loss,Diabetes,Hispanic,3,Yes,Leukemia,No
+77,40,Female,Skin changes,Previous ovarian cysts,White,5,Yes,Kidney,No
+78,31,Female,Skin changes,None,Asian,2,Yes,Colorectal,Yes
+79,17,Male,Weight loss,History of smoking,Asian,1,No,Melanoma,No
+80,76,Male,Fatigue,History of smoking,Black,1,Yes,Melanoma,Yes
+81,71,Male,Abdominal pain,Hypertension,White,5,Yes,Prostate,Yes
+82,15,Female,Nausea,None,White,5,No,Prostate,Yes
+83,37,Female,Abdominal pain,Hypertension,Black,5,Yes,Colorectal,Yes
+84,43,Female,Lump in breast,Hypertension,Hispanic,2,Yes,Kidney,Yes
+85,66,Male,Skin changes,Previous ovarian cysts,White,2,Yes,Kidney,Yes
+86,21,Male,Abdominal pain,Previous ovarian cysts,White,1,Yes,Melanoma,Yes
+87,77,Male,Weight loss,Diabetes,Black,3,Yes,Melanoma,Yes
+88,35,Female,Nausea,Diabetes,Hispanic,4,No,Kidney,Yes
+89,48,Female,Nausea,Previous ovarian cysts,Asian,1,No,Leukemia,No
+90,59,Female,Weight loss,History of smoking,Black,2,Yes,Prostate,Yes
+91,28,Male,Nausea,History of smoking,Black,4,No,Lymphoma,No
+92,35,Male,Persistent cough,None,Hispanic,2,No,Melanoma,Yes
+93,65,Male,Abdominal pain,History of smoking,Black,3,No,Breast,Yes
+94,79,Male,Weight loss,Previous ovarian cysts,Hispanic,2,No,Melanoma,Yes
+95,22,Male,Persistent cough,Diabetes,Asian,3,No,Ovarian,No
+96,49,Female,Skin changes,Diabetes,Asian,3,Yes,Ovarian,Yes
+97,52,Female,Nausea,History of smoking,Asian,2,No,Lymphoma,No
+98,71,Female,Nausea,Diabetes,White,5,No,Lung,Yes
+99,61,Female,Fatigue,Hypertension,White,1,No,Colorectal,Yes
+100,17,Female,Lump in breast,Previous ovarian cysts,Hispanic,2,No,Breast,Yes
+101,76,Male,Nausea,Previous ovarian cysts,White,3,No,Melanoma,No
+102,63,Female,Nausea,History of smoking,Asian,1,No,Leukemia,Yes
+103,52,Male,Fatigue,Previous ovarian cysts,Black,2,No,Lung,No
+104,21,Male,Persistent cough,Previous ovarian cysts,Asian,2,Yes,Breast,No
+105,61,Male,Lump in breast,Diabetes,Black,1,No,Lung,Yes
+106,36,Male,Lump in breast,History of smoking,White,3,Yes,Prostate,Yes
+107,65,Male,Nausea,Previous ovarian cysts,Black,2,Yes,Prostate,No
+108,75,Male,Abdominal pain,None,Hispanic,2,No,Leukemia,No
+109,23,Male,Fatigue,Hypertension,Black,2,Yes,Colorectal,Yes
+110,63,Female,Persistent cough,None,Hispanic,2,No,Ovarian,Yes
+111,69,Male,Weight loss,Previous ovarian cysts,White,5,No,Colorectal,Yes
+112,67,Female,Nausea,Hypertension,Black,3,No,Lymphoma,Yes
+113,70,Male,Abdominal pain,Previous ovarian cysts,Asian,3,No,Pancreatic,No
+114,68,Male,Persistent cough,Previous ovarian cysts,Black,4,No,Ovarian,Yes
+115,49,Male,Abdominal pain,Hypertension,White,3,Yes,Pancreatic,No
+116,19,Male,Persistent cough,None,Asian,5,No,Leukemia,No
+117,74,Male,Lump in breast,Previous ovarian cysts,Black,5,No,Kidney,Yes
+118,58,Male,Lump in breast,Diabetes,Asian,4,No,Leukemia,Yes
+119,67,Female,Weight loss,Hypertension,Asian,5,Yes,Prostate,No
+120,50,Male,Abdominal pain,Diabetes,White,5,Yes,Melanoma,Yes
+121,74,Female,Fatigue,None,Asian,4,Yes,Pancreatic,No
+122,52,Female,Nausea,Previous ovarian cysts,Black,5,Yes,Breast,No
+123,48,Male,Nausea,Diabetes,White,5,No,Lung,Yes
+124,56,Female,Fatigue,None,Asian,2,No,Leukemia,No
+125,34,Female,Nausea,Previous ovarian cysts,Asian,1,Yes,Ovarian,No
+126,63,Female,Nausea,History of smoking,Black,4,Yes,Lung,Yes
+127,49,Female,Nausea,Hypertension,White,5,No,Lymphoma,No
+128,56,Male,Abdominal pain,Previous ovarian cysts,Asian,1,Yes,Leukemia,No
+129,56,Male,Abdominal pain,Previous ovarian cysts,White,2,No,Lung,Yes
+130,28,Male,Abdominal pain,None,Black,1,No,Breast,Yes
+131,77,Male,Weight loss,History of smoking,White,1,Yes,Colorectal,No
+132,79,Female,Skin changes,Diabetes,Asian,3,No,Ovarian,No
+133,53,Male,Lump in breast,Diabetes,White,1,No,Breast,Yes
+134,64,Male,Weight loss,History of smoking,Asian,5,Yes,Colorectal,Yes
+135,38,Male,Fatigue,Previous ovarian cysts,Black,1,No,Lung,Yes
+136,49,Male,Nausea,None,Black,5,No,Lymphoma,No
+137,59,Male,Persistent cough,Previous ovarian cysts,Black,5,Yes,Melanoma,Yes
+138,18,Male,Nausea,Hypertension,White,4,No,Lung,No
+139,39,Male,Weight loss,None,Asian,3,No,Ovarian,Yes
+140,50,Female,Skin changes,Diabetes,Hispanic,1,No,Pancreatic,Yes
+141,37,Male,Lump in breast,None,White,5,Yes,Lymphoma,Yes
+142,55,Male,Persistent cough,History of smoking,Black,2,Yes,Pancreatic,Yes
+143,64,Male,Skin changes,None,Hispanic,1,No,Breast,No
+144,64,Female,Nausea,Diabetes,Black,4,Yes,Melanoma,No
+145,36,Male,Nausea,Hypertension,Asian,5,No,Breast,No
+146,51,Female,Fatigue,Diabetes,White,5,No,Lung,Yes
+147,22,Male,Lump in breast,Hypertension,Asian,4,Yes,Colorectal,Yes
+148,33,Male,Fatigue,Previous ovarian cysts,Black,2,Yes,Kidney,No
+149,67,Female,Persistent cough,None,Black,2,Yes,Colorectal,Yes
+150,18,Female,Skin changes,Hypertension,Black,3,Yes,Lymphoma,Yes
+151,47,Female,Nausea,Hypertension,Asian,5,Yes,Prostate,Yes
+152,38,Female,Nausea,Hypertension,Asian,1,Yes,Melanoma,Yes
+153,63,Male,Nausea,Previous ovarian cysts,Hispanic,2,No,Lymphoma,No
+154,40,Male,Abdominal pain,Hypertension,White,4,Yes,Ovarian,No
+155,78,Female,Abdominal pain,Diabetes,White,1,Yes,Colorectal,No
+156,31,Female,Skin changes,None,Hispanic,1,Yes,Pancreatic,Yes
+157,23,Male,Abdominal pain,History of smoking,White,1,No,Pancreatic,Yes
+158,59,Male,Nausea,Previous ovarian cysts,White,1,Yes,Melanoma,Yes
+159,52,Male,Persistent cough,Previous ovarian cysts,Black,4,No,Prostate,Yes
+160,28,Male,Persistent cough,None,Black,4,No,Lymphoma,No
+161,29,Male,Lump in breast,Previous ovarian cysts,Hispanic,3,Yes,Pancreatic,No
+162,68,Female,Nausea,None,Black,4,No,Lung,Yes
+163,49,Female,Fatigue,History of smoking,Hispanic,5,Yes,Leukemia,No
+164,23,Male,Lump in breast,History of smoking,Asian,3,No,Prostate,No
+165,78,Female,Abdominal pain,None,White,4,No,Ovarian,No
+166,31,Male,Skin changes,Hypertension,Hispanic,1,Yes,Prostate,No
+167,78,Male,Persistent cough,None,Black,3,No,Leukemia,No
+168,16,Male,Abdominal pain,Diabetes,White,1,Yes,Breast,Yes
+169,65,Female,Fatigue,Previous ovarian cysts,Hispanic,2,No,Lymphoma,Yes
+170,67,Female,Weight loss,Diabetes,Asian,3,No,Lymphoma,No
+171,34,Female,Fatigue,None,Black,2,Yes,Breast,Yes
+172,63,Male,Weight loss,None,Asian,1,No,Ovarian,Yes
+173,23,Female,Lump in breast,History of smoking,Hispanic,1,No,Prostate,No
+174,26,Male,Lump in breast,Hypertension,Hispanic,1,Yes,Leukemia,No
+175,69,Male,Skin changes,Diabetes,Black,3,Yes,Lymphoma,Yes
+176,30,Male,Abdominal pain,Hypertension,White,3,No,Ovarian,Yes
+177,78,Male,Fatigue,Diabetes,Asian,2,No,Lymphoma,Yes
+178,25,Male,Abdominal pain,History of smoking,Asian,1,Yes,Colorectal,Yes
+179,45,Female,Fatigue,None,White,2,No,Colorectal,No
+180,18,Male,Persistent cough,Diabetes,Hispanic,5,No,Prostate,Yes
+181,18,Male,Lump in breast,History of smoking,White,2,No,Prostate,Yes
+182,53,Male,Weight loss,Hypertension,White,1,Yes,Leukemia,No
+183,62,Female,Weight loss,Diabetes,Black,3,No,Ovarian,No
+184,62,Female,Lump in breast,Previous ovarian cysts,Asian,4,Yes,Prostate,Yes
+185,61,Female,Fatigue,Previous ovarian cysts,Asian,5,Yes,Kidney,Yes
+186,38,Male,Skin changes,None,Asian,1,No,Kidney,No
+187,51,Female,Abdominal pain,Hypertension,White,4,No,Ovarian,Yes
+188,63,Male,Fatigue,None,Hispanic,4,No,Prostate,Yes
+189,20,Male,Weight loss,Previous ovarian cysts,Asian,4,No,Ovarian,Yes
+190,42,Male,Persistent cough,Hypertension,Hispanic,1,Yes,Lymphoma,No
+191,39,Female,Lump in breast,None,Hispanic,4,No,Leukemia,Yes
+192,40,Female,Skin changes,None,White,1,No,Leukemia,Yes
+193,57,Male,Abdominal pain,None,Black,4,No,Pancreatic,Yes
+194,71,Female,Skin changes,None,White,3,No,Leukemia,Yes
+195,51,Female,Nausea,None,Black,4,Yes,Breast,Yes
+196,79,Male,Nausea,History of smoking,Black,5,Yes,Lymphoma,No
+197,27,Female,Persistent cough,Hypertension,Asian,4,No,Prostate,Yes
+198,21,Female,Fatigue,Hypertension,Hispanic,5,No,Pancreatic,No
+199,44,Male,Lump in breast,History of smoking,Asian,1,Yes,Colorectal,Yes
+200,55,Male,Lump in breast,History of smoking,Black,1,Yes,Prostate,Yes
+201,29,Female,Lump in breast,Hypertension,White,2,Yes,Lung,Yes
+202,57,Male,Lump in breast,Hypertension,Black,2,Yes,Breast,Yes
+203,29,Male,Fatigue,Previous ovarian cysts,Black,2,Yes,Lung,No
+204,45,Male,Fatigue,Diabetes,Asian,3,Yes,Breast,Yes
+205,40,Female,Abdominal pain,Hypertension,White,4,Yes,Lymphoma,Yes
+206,60,Male,Skin changes,Previous ovarian cysts,Black,4,Yes,Kidney,Yes
+207,77,Male,Nausea,Diabetes,Asian,4,Yes,Pancreatic,No
+208,57,Female,Abdominal pain,History of smoking,Hispanic,1,Yes,Ovarian,No
+209,80,Female,Nausea,Diabetes,White,4,Yes,Leukemia,Yes
+210,15,Male,Nausea,None,Hispanic,1,Yes,Colorectal,Yes
+211,69,Female,Skin changes,Hypertension,Asian,4,Yes,Leukemia,No
+212,45,Male,Skin changes,Hypertension,White,1,No,Melanoma,Yes
+213,46,Female,Persistent cough,Previous ovarian cysts,White,2,Yes,Colorectal,Yes
+214,47,Male,Persistent cough,Hypertension,Asian,5,No,Breast,No
+215,37,Male,Nausea,History of smoking,Asian,5,Yes,Prostate,Yes
+216,69,Male,Abdominal pain,Hypertension,Black,2,Yes,Breast,No
+217,79,Male,Skin changes,History of smoking,Hispanic,4,No,Breast,No
+218,26,Male,Skin changes,Previous ovarian cysts,Black,3,Yes,Kidney,No
+219,23,Female,Nausea,None,White,2,No,Melanoma,Yes
+220,29,Female,Persistent cough,None,Asian,4,Yes,Pancreatic,No
+221,78,Male,Skin changes,Previous ovarian cysts,Black,2,No,Prostate,Yes
+222,57,Female,Weight loss,Hypertension,White,3,Yes,Kidney,No
+223,68,Female,Nausea,History of smoking,Black,2,No,Lung,No
+224,59,Male,Persistent cough,None,Asian,2,Yes,Breast,Yes
+225,34,Male,Weight loss,Previous ovarian cysts,White,3,No,Lung,No
+226,22,Male,Lump in breast,Diabetes,Black,2,Yes,Pancreatic,Yes
+227,24,Male,Fatigue,History of smoking,Black,4,No,Lung,No
+228,61,Male,Nausea,History of smoking,White,4,Yes,Prostate,Yes
+229,15,Female,Abdominal pain,Previous ovarian cysts,White,1,Yes,Leukemia,No
+230,65,Male,Lump in breast,Hypertension,Asian,2,Yes,Prostate,Yes
+231,56,Male,Abdominal pain,History of smoking,Black,3,Yes,Colorectal,Yes
+232,64,Male,Persistent cough,Hypertension,Hispanic,5,No,Breast,Yes
+233,63,Female,Lump in breast,History of smoking,Hispanic,2,Yes,Ovarian,No
+234,40,Male,Skin changes,Hypertension,Hispanic,3,No,Melanoma,Yes
+235,38,Female,Abdominal pain,Previous ovarian cysts,Hispanic,3,Yes,Breast,Yes
+236,20,Male,Weight loss,History of smoking,Asian,5,Yes,Kidney,Yes
+237,46,Male,Persistent cough,None,Black,3,Yes,Kidney,Yes
+238,40,Male,Nausea,None,Asian,4,No,Lymphoma,No
+239,17,Male,Weight loss,History of smoking,Black,3,Yes,Prostate,Yes
+240,30,Female,Fatigue,Hypertension,White,2,Yes,Leukemia,No
+241,72,Female,Lump in breast,None,White,1,No,Melanoma,No
+242,28,Female,Persistent cough,Hypertension,Hispanic,3,No,Prostate,No
+243,76,Male,Persistent cough,Previous ovarian cysts,Hispanic,3,Yes,Leukemia,No
+244,20,Female,Abdominal pain,Hypertension,Asian,3,No,Ovarian,Yes
+245,52,Male,Skin changes,None,Black,3,Yes,Breast,Yes
+246,28,Male,Weight loss,Diabetes,Asian,4,No,Prostate,No
+247,26,Male,Abdominal pain,Hypertension,Hispanic,2,No,Prostate,Yes
+248,25,Male,Abdominal pain,History of smoking,Hispanic,3,No,Ovarian,No
+249,34,Female,Weight loss,Diabetes,Black,2,No,Lymphoma,No
+250,67,Female,Persistent cough,Hypertension,White,5,Yes,Leukemia,No
+251,48,Female,Skin changes,Previous ovarian cysts,Black,2,Yes,Lymphoma,No
+252,65,Male,Skin changes,None,Asian,3,Yes,Colorectal,Yes
+253,20,Male,Skin changes,Diabetes,Black,2,No,Pancreatic,No
+254,39,Female,Nausea,None,Black,5,Yes,Prostate,No
+255,36,Male,Persistent cough,Hypertension,Hispanic,3,Yes,Kidney,Yes
+256,58,Female,Persistent cough,Hypertension,Asian,2,Yes,Colorectal,No
+257,43,Female,Lump in breast,None,Asian,4,Yes,Kidney,No
+258,46,Male,Lump in breast,Hypertension,Black,1,No,Melanoma,No
+259,38,Female,Skin changes,History of smoking,Asian,1,No,Breast,No
+260,50,Male,Fatigue,Diabetes,Hispanic,2,Yes,Leukemia,Yes
+261,76,Female,Fatigue,Previous ovarian cysts,Black,3,No,Ovarian,No
+262,16,Female,Nausea,None,Black,3,No,Kidney,Yes
+263,42,Female,Abdominal pain,None,Hispanic,1,No,Ovarian,Yes
+264,33,Female,Weight loss,History of smoking,Asian,5,No,Melanoma,No
+265,17,Male,Nausea,None,Hispanic,3,Yes,Lymphoma,Yes
+266,20,Male,Skin changes,None,Hispanic,2,No,Lung,No
+267,30,Male,Skin changes,Previous ovarian cysts,Hispanic,5,No,Melanoma,No
+268,46,Female,Abdominal pain,History of smoking,Asian,1,No,Pancreatic,No
+269,61,Female,Nausea,History of smoking,White,4,Yes,Pancreatic,No
+270,66,Female,Skin changes,Previous ovarian cysts,Hispanic,3,No,Ovarian,No
+271,32,Female,Persistent cough,Diabetes,Asian,3,No,Lymphoma,Yes
+272,80,Female,Skin changes,History of smoking,White,1,Yes,Melanoma,No
+273,76,Female,Fatigue,Hypertension,Black,5,No,Leukemia,Yes
+274,66,Female,Weight loss,Diabetes,Black,1,Yes,Lung,No
+275,36,Female,Abdominal pain,Hypertension,White,1,Yes,Lung,Yes
+276,36,Male,Persistent cough,Previous ovarian cysts,Hispanic,4,Yes,Colorectal,No
+277,75,Male,Fatigue,Hypertension,Black,1,No,Pancreatic,Yes
+278,25,Female,Skin changes,Hypertension,Asian,4,No,Pancreatic,No
+279,63,Female,Weight loss,Diabetes,White,2,Yes,Ovarian,No
+280,46,Female,Weight loss,Hypertension,White,4,No,Colorectal,Yes
+281,67,Female,Abdominal pain,Diabetes,Hispanic,5,No,Melanoma,No
+282,18,Female,Lump in breast,History of smoking,White,1,No,Lymphoma,No
+283,27,Male,Persistent cough,History of smoking,Asian,2,Yes,Ovarian,Yes
+284,60,Female,Abdominal pain,Previous ovarian cysts,White,1,No,Pancreatic,Yes
+285,57,Female,Nausea,Diabetes,Hispanic,3,Yes,Melanoma,No
+286,45,Male,Nausea,History of smoking,Hispanic,2,Yes,Prostate,No
+287,17,Male,Skin changes,History of smoking,White,1,No,Colorectal,No
+288,68,Female,Abdominal pain,None,Hispanic,5,No,Kidney,No
+289,79,Male,Persistent cough,Previous ovarian cysts,Asian,1,No,Leukemia,Yes
+290,41,Female,Persistent cough,Diabetes,Black,1,No,Leukemia,No
+291,33,Female,Nausea,Hypertension,Black,2,Yes,Prostate,No
+292,58,Female,Lump in breast,Hypertension,Asian,2,No,Lymphoma,Yes
+293,41,Female,Abdominal pain,History of smoking,Asian,2,Yes,Lung,No
+294,72,Male,Abdominal pain,Previous ovarian cysts,Hispanic,3,No,Ovarian,Yes
+295,18,Female,Lump in breast,Previous ovarian cysts,White,5,Yes,Ovarian,No
+296,56,Female,Persistent cough,Hypertension,Hispanic,2,Yes,Breast,Yes
+297,41,Female,Skin changes,None,Asian,3,No,Melanoma,No
+298,62,Male,Nausea,None,Hispanic,5,No,Pancreatic,No
+299,36,Male,Weight loss,None,White,2,No,Colorectal,No
+300,21,Female,Nausea,Previous ovarian cysts,Hispanic,1,No,Colorectal,No
+301,69,Male,Nausea,History of smoking,Asian,2,No,Prostate,No
+302,55,Male,Nausea,History of smoking,Black,5,No,Pancreatic,Yes
+303,34,Male,Weight loss,None,Hispanic,3,Yes,Breast,Yes
+304,74,Female,Fatigue,Hypertension,Hispanic,2,No,Ovarian,No
+305,35,Female,Fatigue,History of smoking,White,5,Yes,Breast,Yes
+306,61,Male,Abdominal pain,Hypertension,Black,4,Yes,Lung,No
+307,50,Female,Weight loss,Hypertension,Asian,1,No,Lung,No
+308,24,Male,Lump in breast,History of smoking,Black,2,Yes,Lymphoma,No
+309,49,Male,Persistent cough,None,Hispanic,2,No,Ovarian,Yes
+310,76,Male,Lump in breast,History of smoking,Hispanic,4,No,Lymphoma,No
+311,23,Female,Persistent cough,Previous ovarian cysts,Black,4,No,Kidney,No
+312,51,Male,Fatigue,History of smoking,Black,2,Yes,Lung,Yes
+313,29,Male,Skin changes,Hypertension,Asian,2,Yes,Lung,Yes
+314,58,Female,Nausea,Hypertension,Hispanic,5,Yes,Colorectal,No
+315,33,Male,Fatigue,Previous ovarian cysts,Hispanic,3,No,Ovarian,No
+316,20,Male,Skin changes,Hypertension,Hispanic,3,Yes,Pancreatic,No
+317,44,Female,Fatigue,None,White,4,Yes,Ovarian,No
+318,68,Female,Persistent cough,Hypertension,Black,5,No,Leukemia,Yes
+319,34,Female,Weight loss,Hypertension,White,1,No,Lung,No
+320,77,Female,Lump in breast,Hypertension,Black,1,No,Kidney,Yes
+321,27,Female,Lump in breast,Hypertension,Hispanic,2,Yes,Colorectal,Yes
+322,46,Male,Abdominal pain,Diabetes,Asian,3,No,Leukemia,No
+323,65,Female,Abdominal pain,Hypertension,Black,3,No,Pancreatic,No
+324,20,Female,Abdominal pain,Diabetes,Hispanic,1,No,Melanoma,No
+325,43,Female,Persistent cough,Diabetes,Asian,5,No,Lymphoma,No
+326,21,Male,Fatigue,None,Hispanic,5,No,Colorectal,Yes
+327,71,Female,Lump in breast,None,Black,4,Yes,Breast,No
+328,55,Female,Lump in breast,History of smoking,Asian,3,No,Leukemia,Yes
+329,31,Male,Fatigue,Diabetes,Hispanic,4,No,Pancreatic,No
+330,77,Male,Weight loss,Previous ovarian cysts,White,1,No,Prostate,Yes
+331,19,Male,Nausea,Diabetes,Asian,2,Yes,Lymphoma,Yes
+332,35,Male,Persistent cough,Previous ovarian cysts,Asian,3,Yes,Pancreatic,Yes
+333,15,Male,Fatigue,History of smoking,Asian,5,No,Breast,No
+334,43,Female,Weight loss,None,Black,4,No,Pancreatic,No
+335,79,Female,Weight loss,Previous ovarian cysts,Black,1,Yes,Melanoma,Yes
+336,59,Male,Persistent cough,Hypertension,Asian,4,No,Lung,No
+337,27,Female,Weight loss,History of smoking,Hispanic,1,No,Pancreatic,Yes
+338,29,Male,Abdominal pain,Hypertension,Black,4,Yes,Colorectal,Yes
+339,79,Female,Lump in breast,None,Black,4,No,Pancreatic,Yes
+340,23,Female,Nausea,Hypertension,Asian,1,No,Kidney,No
+341,32,Male,Nausea,History of smoking,Black,5,Yes,Breast,No
+342,64,Male,Lump in breast,History of smoking,Black,2,Yes,Ovarian,No
+343,16,Male,Skin changes,Diabetes,Black,1,Yes,Leukemia,No
+344,39,Male,Abdominal pain,Diabetes,White,2,Yes,Prostate,Yes
+345,34,Male,Skin changes,None,Black,5,No,Colorectal,Yes
+346,21,Male,Weight loss,Hypertension,White,2,Yes,Ovarian,No
+347,29,Female,Fatigue,Hypertension,Asian,1,Yes,Prostate,Yes
+348,15,Male,Abdominal pain,Diabetes,Hispanic,4,No,Kidney,Yes
+349,31,Female,Fatigue,Previous ovarian cysts,White,1,Yes,Colorectal,No
+350,32,Female,Skin changes,Hypertension,Hispanic,2,No,Kidney,Yes
+351,32,Female,Lump in breast,Diabetes,Asian,2,Yes,Leukemia,Yes
+352,17,Female,Skin changes,Previous ovarian cysts,Black,4,No,Prostate,No
+353,79,Male,Skin changes,None,White,2,Yes,Breast,No
+354,52,Female,Weight loss,Hypertension,White,5,Yes,Colorectal,No
+355,20,Male,Lump in breast,Hypertension,Black,3,Yes,Prostate,Yes
+356,49,Male,Weight loss,History of smoking,White,1,Yes,Lymphoma,No
+357,20,Male,Skin changes,Diabetes,Black,3,No,Prostate,Yes
+358,58,Female,Fatigue,None,Asian,1,Yes,Ovarian,Yes
+359,61,Male,Persistent cough,Diabetes,Black,5,No,Melanoma,Yes
+360,66,Male,Lump in breast,Diabetes,White,5,Yes,Ovarian,Yes
+361,23,Female,Nausea,History of smoking,Black,2,No,Kidney,Yes
+362,30,Male,Nausea,None,Asian,3,Yes,Breast,No
+363,35,Male,Fatigue,Diabetes,Black,1,Yes,Lymphoma,No
+364,17,Male,Persistent cough,Diabetes,Hispanic,5,Yes,Prostate,No
+365,35,Female,Nausea,Previous ovarian cysts,White,2,Yes,Lung,No
+366,51,Male,Lump in breast,Previous ovarian cysts,Hispanic,1,No,Leukemia,Yes
+367,66,Female,Nausea,Diabetes,Hispanic,4,No,Lung,No
+368,18,Female,Weight loss,Diabetes,Black,2,Yes,Prostate,Yes
+369,23,Female,Nausea,Hypertension,Asian,3,No,Lymphoma,No
+370,25,Male,Nausea,Hypertension,Asian,5,No,Breast,Yes
+371,29,Female,Persistent cough,Previous ovarian cysts,Black,4,Yes,Leukemia,No
+372,27,Male,Nausea,Hypertension,Asian,5,Yes,Colorectal,No
+373,36,Male,Weight loss,Hypertension,Black,3,No,Pancreatic,No
+374,29,Female,Abdominal pain,Previous ovarian cysts,Hispanic,5,No,Melanoma,No
+375,57,Male,Nausea,Previous ovarian cysts,Asian,5,Yes,Ovarian,Yes
+376,38,Male,Lump in breast,Diabetes,Black,2,No,Kidney,No
+377,43,Female,Skin changes,History of smoking,Black,3,No,Prostate,No
+378,71,Male,Nausea,None,White,2,Yes,Breast,Yes
+379,55,Male,Fatigue,Diabetes,Black,4,Yes,Melanoma,No
+380,48,Female,Skin changes,Diabetes,Hispanic,1,Yes,Lymphoma,Yes
+381,30,Female,Abdominal pain,Diabetes,Black,5,Yes,Breast,No
+382,49,Male,Skin changes,History of smoking,White,1,No,Ovarian,No
+383,21,Female,Abdominal pain,None,Hispanic,2,Yes,Ovarian,No
+384,31,Female,Nausea,Previous ovarian cysts,Hispanic,1,Yes,Lung,No
+385,43,Female,Weight loss,Diabetes,White,3,Yes,Leukemia,Yes
+386,49,Female,Abdominal pain,Diabetes,White,4,Yes,Lymphoma,Yes
+387,51,Male,Fatigue,History of smoking,White,1,Yes,Prostate,Yes
+388,80,Female,Skin changes,History of smoking,Black,1,No,Breast,No
+389,58,Male,Weight loss,History of smoking,Asian,3,Yes,Prostate,No
+390,37,Male,Weight loss,Previous ovarian cysts,Black,4,No,Breast,Yes
+391,31,Female,Lump in breast,Hypertension,Asian,4,No,Breast,Yes
+392,39,Female,Weight loss,Diabetes,White,1,No,Prostate,No
+393,70,Male,Abdominal pain,Hypertension,Hispanic,5,No,Ovarian,No
+394,76,Female,Abdominal pain,Previous ovarian cysts,Black,1,No,Colorectal,No
+395,49,Female,Weight loss,Hypertension,Black,2,Yes,Lung,Yes
+396,15,Male,Nausea,Previous ovarian cysts,Hispanic,4,Yes,Lymphoma,No
+397,68,Female,Lump in breast,Hypertension,Black,2,No,Breast,No
+398,48,Male,Lump in breast,Diabetes,Asian,5,Yes,Lung,Yes
+399,37,Male,Weight loss,None,Asian,3,No,Breast,No
+400,32,Female,Weight loss,None,White,3,Yes,Leukemia,No
+401,52,Male,Nausea,Diabetes,Black,5,No,Colorectal,No
+402,59,Male,Skin changes,Diabetes,Hispanic,1,No,Leukemia,No
+403,40,Female,Skin changes,Hypertension,White,5,No,Prostate,No
+404,33,Female,Abdominal pain,Previous ovarian cysts,White,2,No,Colorectal,No
+405,66,Female,Persistent cough,History of smoking,Hispanic,5,No,Ovarian,No
+406,44,Male,Fatigue,History of smoking,White,1,Yes,Leukemia,Yes
+407,36,Male,Skin changes,History of smoking,Hispanic,2,No,Pancreatic,Yes
+408,44,Female,Lump in breast,Previous ovarian cysts,Asian,5,No,Lymphoma,Yes
+409,59,Male,Skin changes,History of smoking,Asian,5,Yes,Ovarian,No
+410,25,Male,Nausea,None,Asian,5,Yes,Leukemia,Yes
+411,31,Female,Weight loss,None,Black,5,No,Leukemia,No
+412,19,Female,Lump in breast,Previous ovarian cysts,White,3,No,Leukemia,No
+413,15,Male,Persistent cough,None,White,1,Yes,Melanoma,No
+414,39,Male,Nausea,Previous ovarian cysts,Hispanic,2,No,Ovarian,Yes
+415,53,Female,Nausea,Hypertension,Hispanic,5,No,Lung,No
+416,59,Male,Nausea,None,Asian,3,Yes,Melanoma,Yes
+417,43,Male,Abdominal pain,Hypertension,Asian,3,No,Prostate,Yes
+418,51,Female,Lump in breast,History of smoking,Black,5,Yes,Melanoma,Yes
+419,25,Female,Nausea,History of smoking,Black,5,No,Breast,No
+420,51,Male,Abdominal pain,Previous ovarian cysts,Asian,1,Yes,Kidney,Yes
+421,46,Male,Skin changes,Diabetes,Hispanic,3,No,Kidney,Yes
+422,31,Female,Nausea,Hypertension,Hispanic,3,Yes,Breast,Yes
+423,33,Female,Weight loss,Diabetes,Asian,3,Yes,Breast,Yes
+424,19,Female,Nausea,History of smoking,Asian,4,No,Melanoma,Yes
+425,50,Male,Skin changes,None,White,5,No,Colorectal,Yes
+426,54,Female,Weight loss,None,White,5,Yes,Lung,No
+427,38,Male,Lump in breast,Diabetes,Asian,1,Yes,Breast,Yes
+428,38,Female,Abdominal pain,None,Asian,5,Yes,Pancreatic,No
+429,18,Male,Weight loss,Previous ovarian cysts,White,1,Yes,Kidney,Yes
+430,37,Male,Fatigue,History of smoking,White,5,Yes,Colorectal,Yes
+431,70,Male,Persistent cough,Previous ovarian cysts,Asian,1,No,Colorectal,Yes
+432,19,Female,Lump in breast,Previous ovarian cysts,Asian,3,No,Melanoma,Yes
+433,33,Male,Nausea,Hypertension,Hispanic,5,No,Pancreatic,No
+434,17,Female,Abdominal pain,Hypertension,Asian,2,Yes,Colorectal,Yes
+435,70,Male,Skin changes,History of smoking,Asian,1,Yes,Prostate,Yes
+436,23,Female,Persistent cough,Previous ovarian cysts,Hispanic,1,Yes,Ovarian,Yes
+437,18,Female,Abdominal pain,None,White,3,Yes,Kidney,No
+438,77,Male,Fatigue,None,Asian,5,Yes,Melanoma,Yes
+439,22,Female,Persistent cough,Diabetes,White,4,Yes,Melanoma,Yes
+440,27,Female,Weight loss,None,Asian,4,Yes,Leukemia,No
+441,33,Female,Abdominal pain,Previous ovarian cysts,Black,5,Yes,Ovarian,No
+442,72,Female,Weight loss,Previous ovarian cysts,Black,3,No,Ovarian,No
+443,17,Male,Abdominal pain,Previous ovarian cysts,Asian,4,Yes,Lymphoma,Yes
+444,60,Female,Abdominal pain,None,Asian,4,No,Colorectal,Yes
+445,43,Male,Abdominal pain,Diabetes,Black,3,No,Lung,Yes
+446,72,Male,Nausea,None,Asian,5,Yes,Ovarian,No
+447,24,Male,Nausea,None,Asian,1,Yes,Ovarian,No
+448,66,Male,Persistent cough,History of smoking,White,2,No,Lymphoma,Yes
+449,32,Male,Persistent cough,None,Hispanic,2,Yes,Leukemia,Yes
+450,26,Male,Skin changes,Previous ovarian cysts,Black,3,Yes,Ovarian,Yes
+451,20,Male,Fatigue,Previous ovarian cysts,Hispanic,3,No,Prostate,No
+452,19,Female,Abdominal pain,History of smoking,Asian,5,No,Melanoma,No
+453,58,Male,Fatigue,Hypertension,White,5,Yes,Lymphoma,No
+454,60,Male,Skin changes,Previous ovarian cysts,Asian,5,Yes,Prostate,No
+455,69,Male,Persistent cough,History of smoking,Hispanic,1,No,Pancreatic,No
+456,62,Female,Abdominal pain,Diabetes,Asian,2,Yes,Lung,No
+457,78,Female,Abdominal pain,Previous ovarian cysts,White,4,Yes,Kidney,Yes
+458,55,Male,Skin changes,Previous ovarian cysts,Black,1,Yes,Kidney,No
+459,27,Male,Skin changes,Previous ovarian cysts,Hispanic,1,No,Colorectal,No
+460,36,Female,Fatigue,Diabetes,Asian,1,Yes,Pancreatic,No
+461,35,Male,Skin changes,Hypertension,Hispanic,5,Yes,Leukemia,No
+462,15,Male,Nausea,None,Black,5,No,Prostate,Yes
+463,55,Male,Persistent cough,History of smoking,White,1,Yes,Kidney,Yes
+464,68,Male,Persistent cough,None,Black,2,No,Leukemia,No
+465,56,Male,Nausea,None,Black,4,Yes,Ovarian,No
+466,72,Male,Persistent cough,Diabetes,Black,3,Yes,Colorectal,Yes
+467,39,Female,Lump in breast,History of smoking,Black,4,No,Melanoma,No
+468,25,Male,Weight loss,Hypertension,Asian,4,No,Leukemia,Yes
+469,46,Male,Fatigue,None,Hispanic,5,Yes,Colorectal,Yes
+470,30,Male,Lump in breast,None,Hispanic,2,No,Ovarian,Yes
+471,34,Female,Abdominal pain,None,White,5,No,Prostate,Yes
+472,53,Male,Nausea,Previous ovarian cysts,White,1,Yes,Melanoma,Yes
+473,37,Male,Abdominal pain,None,Black,5,No,Kidney,No
+474,19,Male,Lump in breast,Diabetes,Asian,4,No,Colorectal,Yes
+475,41,Male,Weight loss,None,White,1,Yes,Ovarian,Yes
+476,79,Female,Skin changes,None,White,4,No,Kidney,No
+477,55,Male,Persistent cough,Hypertension,White,2,Yes,Colorectal,Yes
+478,58,Male,Skin changes,History of smoking,Asian,3,No,Pancreatic,No
+479,25,Female,Persistent cough,Previous ovarian cysts,Hispanic,1,Yes,Leukemia,No
+480,19,Male,Persistent cough,History of smoking,Hispanic,5,No,Ovarian,No
+481,71,Female,Skin changes,Diabetes,White,3,No,Prostate,No
+482,45,Female,Weight loss,Previous ovarian cysts,Black,2,No,Kidney,Yes
+483,24,Female,Abdominal pain,Hypertension,Hispanic,4,Yes,Kidney,Yes
+484,73,Female,Lump in breast,None,Hispanic,4,Yes,Lung,No
+485,67,Male,Skin changes,Hypertension,Asian,5,Yes,Melanoma,Yes
+486,53,Male,Persistent cough,None,Black,4,No,Leukemia,No
+487,78,Female,Weight loss,None,Black,5,No,Kidney,No
+488,22,Female,Persistent cough,None,White,2,No,Colorectal,No
+489,43,Male,Weight loss,Previous ovarian cysts,Hispanic,3,No,Ovarian,No
+490,35,Female,Lump in breast,Hypertension,Hispanic,4,Yes,Lymphoma,Yes
+491,79,Male,Weight loss,Hypertension,Black,3,No,Ovarian,No
+492,30,Female,Persistent cough,Previous ovarian cysts,Asian,1,Yes,Breast,No
+493,75,Female,Weight loss,Hypertension,Black,3,No,Pancreatic,No
+494,47,Female,Lump in breast,History of smoking,Hispanic,1,No,Colorectal,No
+495,69,Male,Skin changes,Previous ovarian cysts,Asian,2,No,Lymphoma,No
+496,73,Male,Skin changes,None,Hispanic,4,Yes,Lung,No
+497,71,Male,Abdominal pain,Previous ovarian cysts,White,3,No,Colorectal,Yes
+498,26,Female,Skin changes,Hypertension,Asian,5,Yes,Prostate,Yes
+499,29,Female,Persistent cough,Previous ovarian cysts,Black,5,Yes,Leukemia,No
+500,17,Female,Abdominal pain,Hypertension,White,4,Yes,Ovarian,No
+501,57,Female,Persistent cough,Previous ovarian cysts,Black,1,No,Prostate,Yes
+502,39,Female,Nausea,Previous ovarian cysts,Hispanic,1,Yes,Lung,Yes
+503,60,Female,Nausea,Hypertension,Hispanic,3,Yes,Kidney,Yes
+504,49,Male,Abdominal pain,None,Hispanic,1,Yes,Breast,No
+505,31,Male,Abdominal pain,Previous ovarian cysts,White,2,No,Ovarian,Yes
+506,43,Male,Nausea,None,Hispanic,3,No,Pancreatic,Yes
+507,32,Male,Lump in breast,History of smoking,Black,5,No,Lymphoma,Yes
+508,65,Male,Weight loss,Diabetes,Black,4,No,Pancreatic,No
+509,18,Female,Weight loss,None,Black,4,No,Pancreatic,Yes
+510,73,Female,Abdominal pain,Hypertension,Hispanic,5,Yes,Prostate,Yes
+511,26,Male,Nausea,Previous ovarian cysts,Black,5,No,Colorectal,Yes
+512,67,Female,Abdominal pain,Previous ovarian cysts,Asian,5,No,Colorectal,No
+513,30,Female,Abdominal pain,History of smoking,White,1,Yes,Leukemia,No
+514,46,Male,Fatigue,Hypertension,Asian,3,No,Kidney,No
+515,33,Female,Nausea,Hypertension,Hispanic,1,Yes,Lymphoma,Yes
+516,54,Female,Weight loss,Hypertension,Black,5,Yes,Lung,No
+517,36,Female,Nausea,History of smoking,Hispanic,1,Yes,Lymphoma,Yes
+518,70,Female,Abdominal pain,Hypertension,Black,2,Yes,Colorectal,No
+519,20,Male,Fatigue,Previous ovarian cysts,Asian,4,Yes,Ovarian,No
+520,40,Female,Lump in breast,None,Hispanic,1,No,Melanoma,Yes
+521,71,Male,Abdominal pain,None,Asian,4,Yes,Pancreatic,No
+522,38,Male,Skin changes,Hypertension,Asian,4,Yes,Leukemia,Yes
+523,69,Male,Skin changes,Diabetes,Black,1,No,Colorectal,No
+524,76,Female,Nausea,Diabetes,Asian,2,Yes,Prostate,Yes
+525,79,Male,Skin changes,None,Black,5,Yes,Pancreatic,Yes
+526,46,Female,Lump in breast,Previous ovarian cysts,White,2,Yes,Lymphoma,Yes
+527,20,Female,Fatigue,Previous ovarian cysts,Asian,2,Yes,Pancreatic,No
+528,20,Female,Lump in breast,History of smoking,Black,1,Yes,Ovarian,Yes
+529,70,Female,Nausea,None,Black,1,No,Kidney,No
+530,22,Female,Fatigue,Previous ovarian cysts,Black,3,Yes,Lung,No
+531,62,Female,Skin changes,None,Hispanic,5,No,Prostate,Yes
+532,47,Female,Lump in breast,Diabetes,White,1,Yes,Ovarian,Yes
+533,54,Male,Lump in breast,Diabetes,Asian,1,Yes,Prostate,No
+534,50,Male,Fatigue,Diabetes,Asian,5,Yes,Colorectal,Yes
+535,74,Male,Nausea,Hypertension,Black,1,No,Colorectal,Yes
+536,73,Female,Fatigue,Hypertension,Asian,1,Yes,Melanoma,Yes
+537,23,Female,Weight loss,None,Black,1,Yes,Colorectal,No
+538,80,Male,Fatigue,Diabetes,White,1,No,Prostate,No
+539,48,Female,Lump in breast,Previous ovarian cysts,White,1,Yes,Colorectal,No
+540,56,Male,Weight loss,None,White,4,No,Prostate,No
+541,25,Male,Abdominal pain,Hypertension,Hispanic,4,No,Kidney,No
+542,75,Male,Lump in breast,Previous ovarian cysts,Black,3,No,Prostate,No
+543,60,Male,Nausea,None,Asian,4,No,Leukemia,No
+544,22,Female,Fatigue,Previous ovarian cysts,Black,4,No,Colorectal,Yes
+545,64,Male,Lump in breast,History of smoking,Hispanic,2,No,Lung,Yes
+546,75,Female,Weight loss,None,Black,3,Yes,Ovarian,No
+547,16,Male,Weight loss,Hypertension,White,2,Yes,Prostate,Yes
+548,42,Male,Persistent cough,Diabetes,White,5,Yes,Pancreatic,No
+549,72,Female,Abdominal pain,Diabetes,Asian,5,No,Prostate,Yes
+550,17,Female,Abdominal pain,None,White,4,No,Pancreatic,No
+551,72,Female,Abdominal pain,Previous ovarian cysts,White,4,Yes,Ovarian,No
+552,58,Female,Nausea,None,Black,4,Yes,Pancreatic,Yes
+553,51,Female,Lump in breast,History of smoking,Asian,1,No,Melanoma,Yes
+554,46,Female,Weight loss,Hypertension,Asian,1,Yes,Ovarian,Yes
+555,72,Male,Persistent cough,Diabetes,Asian,2,No,Colorectal,No
+556,24,Female,Persistent cough,None,Asian,4,Yes,Colorectal,Yes
+557,63,Male,Fatigue,Previous ovarian cysts,White,4,Yes,Colorectal,Yes
+558,62,Female,Abdominal pain,Previous ovarian cysts,Hispanic,1,Yes,Prostate,Yes
+559,40,Female,Weight loss,None,Hispanic,4,Yes,Kidney,No
+560,16,Male,Fatigue,History of smoking,Hispanic,5,No,Ovarian,No
+561,29,Female,Fatigue,Diabetes,White,2,Yes,Lung,No
+562,61,Male,Abdominal pain,None,Asian,2,No,Ovarian,Yes
+563,44,Male,Weight loss,History of smoking,White,5,No,Kidney,Yes
+564,54,Female,Nausea,Previous ovarian cysts,Hispanic,4,Yes,Ovarian,No
+565,37,Male,Fatigue,Diabetes,Black,5,Yes,Pancreatic,Yes
+566,72,Female,Weight loss,Hypertension,White,4,No,Lung,No
+567,54,Female,Fatigue,Hypertension,Asian,5,No,Melanoma,No
+568,31,Female,Persistent cough,Diabetes,White,1,No,Ovarian,No
+569,48,Female,Lump in breast,None,Hispanic,2,Yes,Kidney,No
+570,61,Female,Weight loss,None,Black,2,Yes,Melanoma,No
+571,59,Female,Skin changes,Hypertension,Black,5,No,Pancreatic,Yes
+572,55,Male,Nausea,History of smoking,Hispanic,3,Yes,Lymphoma,No
+573,67,Female,Nausea,Diabetes,Asian,3,No,Kidney,No
+574,43,Male,Lump in breast,Hypertension,White,3,Yes,Colorectal,No
+575,69,Female,Fatigue,History of smoking,White,1,Yes,Leukemia,No
+576,64,Male,Fatigue,Diabetes,White,5,Yes,Pancreatic,Yes
+577,71,Female,Lump in breast,Diabetes,Black,2,No,Pancreatic,No
+578,52,Female,Persistent cough,History of smoking,White,4,No,Lymphoma,No
+579,54,Female,Persistent cough,Diabetes,Hispanic,3,No,Colorectal,No
+580,26,Male,Persistent cough,None,Asian,5,Yes,Kidney,No
+581,38,Female,Weight loss,Diabetes,White,4,No,Lymphoma,Yes
+582,67,Male,Nausea,Previous ovarian cysts,Asian,3,No,Prostate,No
+583,64,Male,Abdominal pain,None,White,2,Yes,Leukemia,No
+584,63,Female,Lump in breast,Previous ovarian cysts,Black,1,Yes,Leukemia,Yes
+585,63,Male,Fatigue,Hypertension,Hispanic,2,Yes,Kidney,Yes
+586,43,Female,Abdominal pain,History of smoking,White,4,No,Lymphoma,Yes
+587,22,Male,Lump in breast,Diabetes,Hispanic,3,Yes,Pancreatic,No
+588,15,Male,Skin changes,None,Black,2,No,Breast,No
+589,22,Male,Skin changes,Previous ovarian cysts,Hispanic,1,No,Lymphoma,Yes
+590,52,Male,Lump in breast,Diabetes,Black,1,Yes,Pancreatic,No
+591,29,Female,Nausea,Hypertension,Hispanic,4,Yes,Ovarian,Yes
+592,34,Male,Skin changes,History of smoking,Asian,4,No,Colorectal,No
+593,47,Male,Weight loss,Hypertension,Hispanic,5,Yes,Pancreatic,No
+594,78,Male,Abdominal pain,Diabetes,White,4,Yes,Kidney,Yes
+595,19,Male,Weight loss,Previous ovarian cysts,White,1,Yes,Pancreatic,Yes
+596,65,Female,Nausea,None,White,4,No,Lung,Yes
+597,57,Male,Lump in breast,Diabetes,White,5,Yes,Pancreatic,Yes
+598,64,Male,Abdominal pain,None,White,2,Yes,Prostate,No
+599,76,Female,Skin changes,Hypertension,Asian,1,No,Leukemia,Yes
+600,46,Male,Skin changes,None,White,3,Yes,Pancreatic,No
+601,34,Female,Lump in breast,Diabetes,White,1,No,Ovarian,Yes
+602,75,Male,Fatigue,History of smoking,Asian,2,No,Lung,No
+603,46,Female,Persistent cough,History of smoking,Hispanic,5,Yes,Melanoma,Yes
+604,23,Male,Persistent cough,Hypertension,Black,1,Yes,Pancreatic,No
+605,38,Male,Lump in breast,Previous ovarian cysts,White,2,No,Lung,Yes
+606,52,Female,Persistent cough,None,Black,3,Yes,Ovarian,No
+607,22,Male,Nausea,History of smoking,Asian,4,Yes,Breast,No
+608,47,Male,Nausea,Previous ovarian cysts,Black,4,No,Lymphoma,No
+609,61,Male,Fatigue,None,Hispanic,2,No,Lung,Yes
+610,27,Male,Persistent cough,Diabetes,White,2,Yes,Lung,No
+611,48,Male,Abdominal pain,None,Hispanic,2,Yes,Colorectal,No
+612,73,Female,Lump in breast,Previous ovarian cysts,Asian,2,No,Kidney,Yes
+613,36,Male,Lump in breast,Diabetes,Hispanic,5,Yes,Lymphoma,No
+614,15,Female,Lump in breast,None,Black,4,Yes,Lung,Yes
+615,79,Male,Fatigue,Hypertension,Black,4,No,Lung,No
+616,24,Male,Persistent cough,Hypertension,Hispanic,1,Yes,Leukemia,No
+617,16,Male,Fatigue,Previous ovarian cysts,Black,2,No,Prostate,No
+618,43,Male,Nausea,Hypertension,White,1,Yes,Leukemia,Yes
+619,69,Male,Fatigue,History of smoking,Black,1,Yes,Breast,No
+620,56,Male,Fatigue,Hypertension,Black,3,Yes,Breast,Yes
+621,41,Male,Abdominal pain,None,Hispanic,5,Yes,Lung,Yes
+622,60,Female,Nausea,None,White,3,No,Kidney,Yes
+623,19,Male,Skin changes,Previous ovarian cysts,Asian,2,Yes,Breast,Yes
+624,21,Male,Lump in breast,Diabetes,Hispanic,4,No,Pancreatic,No
+625,73,Male,Weight loss,Diabetes,White,5,No,Lymphoma,Yes
+626,48,Male,Persistent cough,Previous ovarian cysts,Hispanic,1,Yes,Melanoma,Yes
+627,20,Female,Lump in breast,Hypertension,Black,1,No,Lymphoma,No
+628,61,Female,Persistent cough,Hypertension,Asian,2,No,Colorectal,Yes
+629,32,Male,Abdominal pain,Hypertension,Hispanic,4,Yes,Ovarian,Yes
+630,40,Male,Weight loss,None,Asian,2,Yes,Prostate,No
+631,60,Female,Lump in breast,History of smoking,Hispanic,4,No,Lung,No
+632,16,Female,Abdominal pain,None,Black,5,No,Lymphoma,No
+633,77,Female,Weight loss,History of smoking,White,2,Yes,Colorectal,No
+634,24,Male,Weight loss,Previous ovarian cysts,Asian,4,Yes,Lymphoma,No
+635,42,Male,Persistent cough,Diabetes,Hispanic,1,No,Lung,No
+636,64,Female,Fatigue,Previous ovarian cysts,Black,4,No,Leukemia,Yes
+637,36,Male,Persistent cough,Diabetes,Asian,3,No,Breast,No
+638,15,Male,Lump in breast,None,Asian,4,Yes,Breast,Yes
+639,39,Male,Lump in breast,None,Hispanic,4,No,Breast,Yes
+640,24,Female,Weight loss,None,White,4,Yes,Lymphoma,No
+641,23,Male,Abdominal pain,History of smoking,White,3,No,Colorectal,No
+642,71,Female,Abdominal pain,Hypertension,Hispanic,2,No,Prostate,No
+643,52,Female,Lump in breast,Hypertension,Black,3,No,Kidney,No
+644,40,Female,Weight loss,Previous ovarian cysts,Black,4,Yes,Colorectal,Yes
+645,52,Female,Fatigue,None,Hispanic,3,No,Leukemia,No
+646,77,Female,Fatigue,Previous ovarian cysts,Hispanic,4,Yes,Kidney,No
+647,51,Male,Lump in breast,History of smoking,Asian,3,No,Breast,No
+648,46,Female,Fatigue,Hypertension,Hispanic,1,No,Kidney,No
+649,59,Male,Skin changes,None,Asian,5,Yes,Melanoma,Yes
+650,57,Female,Nausea,History of smoking,Black,1,Yes,Kidney,No
+651,65,Female,Skin changes,None,White,4,Yes,Pancreatic,Yes
+652,69,Male,Abdominal pain,Hypertension,Black,5,Yes,Leukemia,No
+653,56,Male,Weight loss,None,Hispanic,3,Yes,Kidney,No
+654,46,Female,Fatigue,Hypertension,Asian,5,Yes,Colorectal,No
+655,35,Female,Skin changes,Hypertension,Hispanic,4,Yes,Kidney,Yes
+656,78,Female,Lump in breast,Diabetes,Hispanic,1,No,Melanoma,No
+657,51,Male,Persistent cough,None,Black,3,No,Lymphoma,No
+658,76,Female,Fatigue,Previous ovarian cysts,Asian,5,No,Melanoma,Yes
+659,51,Female,Skin changes,Hypertension,Black,1,No,Lung,No
+660,46,Female,Skin changes,Hypertension,Hispanic,5,No,Ovarian,Yes
+661,54,Female,Nausea,Diabetes,Asian,5,No,Lung,Yes
+662,26,Male,Weight loss,None,White,4,No,Kidney,No
+663,65,Female,Persistent cough,Previous ovarian cysts,Hispanic,5,Yes,Kidney,No
+664,28,Female,Nausea,Previous ovarian cysts,Asian,4,Yes,Leukemia,No
+665,41,Male,Abdominal pain,Hypertension,Black,5,No,Breast,No
+666,22,Male,Fatigue,None,Black,3,Yes,Kidney,No
+667,75,Male,Weight loss,Hypertension,Black,4,Yes,Breast,No
+668,46,Female,Nausea,History of smoking,White,2,No,Ovarian,No
+669,53,Male,Abdominal pain,History of smoking,White,2,Yes,Breast,No
+670,48,Female,Persistent cough,None,Asian,2,Yes,Colorectal,No
+671,58,Male,Nausea,None,Asian,3,Yes,Ovarian,No
+672,49,Female,Persistent cough,Previous ovarian cysts,White,3,Yes,Leukemia,No
+673,58,Male,Persistent cough,None,Asian,4,Yes,Kidney,Yes
+674,43,Male,Fatigue,Diabetes,Hispanic,3,No,Breast,Yes
+675,43,Female,Abdominal pain,None,Hispanic,4,No,Colorectal,No
+676,57,Female,Nausea,Previous ovarian cysts,Asian,5,No,Kidney,Yes
+677,30,Female,Abdominal pain,History of smoking,Hispanic,5,Yes,Leukemia,Yes
+678,19,Male,Skin changes,Hypertension,White,5,Yes,Leukemia,Yes
+679,37,Male,Nausea,History of smoking,Asian,1,No,Breast,Yes
+680,25,Female,Abdominal pain,Previous ovarian cysts,White,4,Yes,Leukemia,Yes
+681,15,Male,Weight loss,None,Hispanic,1,No,Kidney,Yes
+682,55,Female,Fatigue,History of smoking,Hispanic,5,Yes,Lymphoma,Yes
+683,52,Male,Skin changes,Previous ovarian cysts,Black,5,No,Leukemia,Yes
+684,22,Female,Skin changes,Diabetes,Black,2,Yes,Breast,No
+685,25,Male,Abdominal pain,None,Black,2,No,Ovarian,No
+686,26,Female,Weight loss,Hypertension,Black,5,No,Colorectal,Yes
+687,68,Female,Weight loss,History of smoking,White,3,Yes,Ovarian,Yes
+688,43,Male,Abdominal pain,None,White,2,Yes,Leukemia,No
+689,39,Female,Fatigue,None,Black,4,Yes,Ovarian,No
+690,59,Female,Fatigue,Diabetes,Hispanic,2,Yes,Lung,No
+691,57,Male,Persistent cough,History of smoking,Asian,4,No,Kidney,No
+692,56,Male,Skin changes,Hypertension,White,1,No,Ovarian,No
+693,27,Female,Skin changes,Diabetes,Black,2,No,Colorectal,No
+694,70,Male,Abdominal pain,None,Hispanic,1,No,Ovarian,Yes
+695,76,Female,Skin changes,History of smoking,Hispanic,3,No,Melanoma,No
+696,34,Male,Abdominal pain,Diabetes,Asian,2,No,Lymphoma,No
+697,75,Female,Skin changes,Previous ovarian cysts,Hispanic,4,No,Pancreatic,Yes
+698,20,Female,Weight loss,History of smoking,Asian,4,No,Colorectal,Yes
+699,16,Female,Nausea,None,Hispanic,4,Yes,Leukemia,Yes
+700,44,Female,Weight loss,Hypertension,Asian,4,Yes,Lymphoma,No
+701,25,Male,Skin changes,History of smoking,Asian,5,No,Pancreatic,Yes
+702,61,Male,Skin changes,None,White,5,Yes,Breast,Yes
+703,30,Female,Fatigue,Diabetes,Hispanic,1,Yes,Leukemia,No
+704,27,Female,Fatigue,Diabetes,Hispanic,3,No,Pancreatic,Yes
+705,63,Female,Abdominal pain,None,White,2,No,Kidney,Yes
+706,71,Female,Lump in breast,Previous ovarian cysts,Hispanic,4,Yes,Ovarian,Yes
+707,26,Female,Persistent cough,History of smoking,White,5,Yes,Leukemia,No
+708,39,Male,Skin changes,Diabetes,Black,2,No,Lung,Yes
+709,73,Female,Nausea,History of smoking,Hispanic,2,Yes,Lymphoma,Yes
+710,58,Male,Persistent cough,Hypertension,Asian,4,Yes,Breast,No
+711,35,Female,Weight loss,Previous ovarian cysts,Hispanic,3,No,Colorectal,Yes
+712,47,Female,Lump in breast,Hypertension,Hispanic,1,Yes,Leukemia,No
+713,29,Male,Nausea,Previous ovarian cysts,Black,2,Yes,Prostate,No
+714,75,Male,Persistent cough,Hypertension,Hispanic,4,No,Breast,Yes
+715,50,Male,Persistent cough,Hypertension,Hispanic,3,Yes,Prostate,Yes
+716,51,Male,Nausea,Hypertension,Hispanic,1,Yes,Melanoma,No
+717,71,Female,Weight loss,None,White,3,No,Melanoma,No
+718,62,Female,Nausea,Diabetes,Hispanic,4,No,Pancreatic,No
+719,77,Male,Lump in breast,Diabetes,Asian,3,Yes,Prostate,Yes
+720,20,Female,Skin changes,History of smoking,Hispanic,1,Yes,Lung,No
+721,50,Female,Weight loss,Diabetes,White,4,Yes,Lymphoma,Yes
+722,71,Female,Lump in breast,None,Asian,1,Yes,Prostate,Yes
+723,37,Female,Skin changes,History of smoking,White,4,No,Pancreatic,Yes
+724,50,Male,Persistent cough,None,Black,1,No,Pancreatic,Yes
+725,19,Female,Abdominal pain,History of smoking,White,1,Yes,Leukemia,No
+726,70,Female,Skin changes,Previous ovarian cysts,Hispanic,5,No,Lymphoma,Yes
+727,72,Female,Nausea,History of smoking,White,1,Yes,Ovarian,Yes
+728,59,Male,Lump in breast,History of smoking,Asian,3,No,Leukemia,Yes
+729,30,Female,Fatigue,Diabetes,Black,5,Yes,Breast,Yes
+730,45,Female,Fatigue,Diabetes,White,4,Yes,Ovarian,No
+731,38,Female,Weight loss,Previous ovarian cysts,Black,5,Yes,Lymphoma,Yes
+732,69,Male,Lump in breast,Diabetes,White,3,Yes,Kidney,Yes
+733,64,Female,Lump in breast,History of smoking,Asian,1,Yes,Lymphoma,No
+734,55,Female,Skin changes,None,Asian,3,No,Melanoma,Yes
+735,67,Female,Persistent cough,None,Black,1,No,Lung,No
+736,78,Male,Nausea,Previous ovarian cysts,Asian,2,No,Lung,No
+737,60,Male,Persistent cough,Hypertension,White,3,Yes,Lung,Yes
+738,51,Female,Lump in breast,Hypertension,Asian,1,No,Lung,No
+739,31,Female,Skin changes,Diabetes,Asian,4,No,Breast,No
+740,31,Female,Lump in breast,Hypertension,White,1,No,Pancreatic,Yes
+741,19,Male,Fatigue,Hypertension,Hispanic,4,Yes,Pancreatic,No
+742,78,Male,Skin changes,None,Asian,3,No,Leukemia,Yes
+743,53,Female,Skin changes,Hypertension,Hispanic,2,Yes,Ovarian,No
+744,24,Male,Nausea,History of smoking,White,4,Yes,Lung,No
+745,51,Male,Weight loss,Previous ovarian cysts,Hispanic,1,Yes,Melanoma,Yes
+746,46,Male,Nausea,Previous ovarian cysts,Black,5,Yes,Prostate,No
+747,72,Male,Skin changes,None,White,5,No,Kidney,No
+748,20,Male,Abdominal pain,Previous ovarian cysts,Asian,4,Yes,Melanoma,Yes
+749,27,Male,Abdominal pain,None,White,5,No,Breast,No
+750,47,Male,Abdominal pain,History of smoking,Hispanic,4,No,Melanoma,Yes
+751,69,Male,Skin changes,Previous ovarian cysts,Hispanic,1,Yes,Ovarian,Yes
+752,57,Male,Persistent cough,Diabetes,Hispanic,4,Yes,Leukemia,Yes
+753,68,Female,Persistent cough,Previous ovarian cysts,Hispanic,5,No,Kidney,Yes
+754,66,Male,Abdominal pain,Previous ovarian cysts,Asian,2,Yes,Lymphoma,Yes
+755,62,Male,Weight loss,Diabetes,Hispanic,5,Yes,Lymphoma,No
+756,17,Female,Nausea,History of smoking,Hispanic,4,No,Breast,Yes
+757,32,Female,Weight loss,Diabetes,White,2,Yes,Pancreatic,No
+758,53,Male,Fatigue,Previous ovarian cysts,Black,2,No,Pancreatic,Yes
+759,79,Male,Skin changes,None,White,3,No,Lung,Yes
+760,20,Male,Lump in breast,Hypertension,Asian,4,No,Prostate,Yes
+761,37,Female,Persistent cough,Hypertension,Black,1,No,Breast,No
+762,77,Female,Nausea,Previous ovarian cysts,Asian,4,No,Pancreatic,No
+763,39,Male,Lump in breast,None,Hispanic,1,Yes,Pancreatic,No
+764,35,Female,Fatigue,Diabetes,Hispanic,2,No,Pancreatic,No
+765,69,Male,Nausea,Diabetes,White,1,No,Pancreatic,Yes
+766,61,Female,Skin changes,Previous ovarian cysts,Asian,1,No,Lymphoma,No
+767,69,Male,Lump in breast,Previous ovarian cysts,White,2,Yes,Lung,No
+768,36,Female,Abdominal pain,Hypertension,Black,3,Yes,Lymphoma,No
+769,53,Female,Weight loss,Hypertension,Black,5,No,Breast,No
+770,17,Female,Nausea,History of smoking,Black,5,No,Ovarian,Yes
+771,74,Male,Lump in breast,History of smoking,White,4,No,Lung,Yes
+772,58,Female,Nausea,Hypertension,Black,1,Yes,Lung,Yes
+773,28,Male,Persistent cough,Hypertension,Asian,3,Yes,Lung,Yes
+774,70,Female,Persistent cough,Diabetes,Hispanic,1,Yes,Kidney,No
+775,65,Male,Persistent cough,Hypertension,White,5,Yes,Lung,No
+776,59,Male,Skin changes,History of smoking,Hispanic,5,Yes,Lymphoma,No
+777,62,Male,Nausea,History of smoking,Hispanic,4,No,Prostate,Yes
+778,46,Female,Lump in breast,None,Hispanic,1,No,Leukemia,No
+779,67,Female,Lump in breast,None,Hispanic,1,No,Pancreatic,No
+780,52,Female,Abdominal pain,History of smoking,Black,4,No,Pancreatic,No
+781,69,Male,Skin changes,Diabetes,Asian,4,Yes,Ovarian,Yes
+782,46,Female,Weight loss,Hypertension,Asian,5,No,Pancreatic,No
+783,78,Female,Skin changes,Previous ovarian cysts,Asian,5,No,Prostate,Yes
+784,34,Female,Abdominal pain,None,Hispanic,3,No,Pancreatic,No
+785,63,Male,Fatigue,Hypertension,Asian,3,No,Colorectal,No
+786,19,Male,Abdominal pain,History of smoking,Black,1,No,Pancreatic,Yes
+787,32,Male,Abdominal pain,Hypertension,White,4,No,Melanoma,Yes
+788,17,Female,Lump in breast,Previous ovarian cysts,Asian,2,Yes,Prostate,Yes
+789,28,Female,Skin changes,None,Black,3,Yes,Lymphoma,No
+790,60,Female,Weight loss,None,Hispanic,5,No,Prostate,No
+791,76,Female,Abdominal pain,Hypertension,Asian,1,No,Ovarian,Yes
+792,60,Female,Lump in breast,None,Hispanic,4,No,Pancreatic,Yes
+793,31,Female,Fatigue,History of smoking,White,4,Yes,Ovarian,Yes
+794,41,Female,Persistent cough,Diabetes,White,5,No,Pancreatic,No
+795,58,Female,Skin changes,Hypertension,Black,4,No,Lung,No
+796,17,Male,Persistent cough,History of smoking,White,5,Yes,Pancreatic,Yes
+797,61,Male,Weight loss,Previous ovarian cysts,Asian,5,No,Melanoma,No
+798,30,Male,Persistent cough,History of smoking,Hispanic,3,Yes,Prostate,No
+799,64,Male,Fatigue,History of smoking,White,5,No,Prostate,Yes
+800,72,Female,Lump in breast,Previous ovarian cysts,Hispanic,5,Yes,Kidney,Yes
+801,17,Male,Abdominal pain,Diabetes,White,1,Yes,Melanoma,Yes
+802,31,Male,Lump in breast,Previous ovarian cysts,Asian,3,Yes,Lymphoma,Yes
+803,29,Male,Fatigue,Diabetes,Hispanic,4,No,Lymphoma,No
+804,68,Male,Lump in breast,None,Asian,1,Yes,Colorectal,No
+805,25,Male,Weight loss,Hypertension,White,1,No,Kidney,No
+806,80,Female,Nausea,None,Asian,4,No,Melanoma,No
+807,34,Male,Weight loss,Hypertension,Hispanic,1,Yes,Ovarian,Yes
+808,65,Female,Skin changes,Diabetes,Hispanic,3,No,Prostate,No
+809,18,Female,Skin changes,Diabetes,White,1,No,Lymphoma,No
+810,63,Female,Nausea,History of smoking,White,3,Yes,Colorectal,No
+811,70,Male,Weight loss,None,White,2,No,Prostate,Yes
+812,15,Male,Persistent cough,None,Asian,2,Yes,Lung,Yes
+813,58,Male,Nausea,Previous ovarian cysts,Hispanic,5,Yes,Kidney,No
+814,23,Female,Abdominal pain,None,Hispanic,2,No,Lung,No
+815,23,Male,Lump in breast,History of smoking,Black,3,No,Prostate,Yes
+816,45,Female,Nausea,Diabetes,Black,2,Yes,Breast,Yes
+817,28,Male,Lump in breast,Previous ovarian cysts,Hispanic,2,No,Ovarian,No
+818,71,Male,Nausea,History of smoking,Black,4,No,Prostate,Yes
+819,42,Male,Lump in breast,Diabetes,Asian,5,Yes,Melanoma,No
+820,29,Female,Persistent cough,History of smoking,Black,3,Yes,Colorectal,No
+821,44,Female,Fatigue,Previous ovarian cysts,White,5,No,Pancreatic,No
+822,31,Male,Persistent cough,Diabetes,Asian,1,No,Leukemia,No
+823,73,Female,Abdominal pain,Hypertension,White,2,Yes,Lymphoma,Yes
+824,77,Female,Fatigue,Previous ovarian cysts,Asian,5,No,Lung,Yes
+825,15,Male,Fatigue,Diabetes,Hispanic,1,No,Pancreatic,No
+826,70,Male,Skin changes,Previous ovarian cysts,Asian,2,No,Kidney,Yes
+827,15,Female,Lump in breast,History of smoking,Hispanic,1,Yes,Melanoma,No
+828,51,Female,Fatigue,Diabetes,Asian,2,No,Melanoma,No
+829,62,Male,Lump in breast,Previous ovarian cysts,Asian,4,Yes,Melanoma,Yes
+830,58,Male,Weight loss,Previous ovarian cysts,White,3,Yes,Ovarian,No
+831,22,Male,Weight loss,Diabetes,Hispanic,4,Yes,Melanoma,Yes
+832,56,Female,Weight loss,None,White,5,No,Pancreatic,Yes
+833,17,Female,Nausea,None,Black,2,No,Ovarian,No
+834,56,Male,Lump in breast,Hypertension,Hispanic,1,No,Breast,No
+835,61,Male,Weight loss,Previous ovarian cysts,Hispanic,1,Yes,Lung,Yes
+836,78,Female,Nausea,Diabetes,Hispanic,3,No,Lymphoma,No
+837,30,Female,Fatigue,Diabetes,Asian,3,No,Melanoma,No
+838,39,Female,Fatigue,None,White,1,Yes,Ovarian,No
+839,15,Male,Persistent cough,Diabetes,Black,4,No,Breast,Yes
+840,55,Male,Abdominal pain,Diabetes,White,3,No,Colorectal,No
+841,54,Female,Skin changes,History of smoking,Asian,1,Yes,Breast,No
+842,57,Male,Abdominal pain,Diabetes,Hispanic,4,Yes,Prostate,No
+843,67,Female,Nausea,Previous ovarian cysts,Black,1,Yes,Pancreatic,No
+844,49,Male,Skin changes,History of smoking,Hispanic,3,No,Ovarian,Yes
+845,49,Male,Skin changes,History of smoking,White,3,No,Lymphoma,Yes
+846,18,Female,Abdominal pain,Diabetes,Black,5,No,Melanoma,No
+847,53,Female,Lump in breast,Diabetes,Asian,4,No,Lymphoma,Yes
+848,30,Female,Skin changes,None,White,4,No,Breast,No
+849,34,Female,Fatigue,Diabetes,Hispanic,4,No,Breast,Yes
+850,28,Female,Weight loss,Hypertension,Hispanic,4,Yes,Leukemia,Yes
+851,80,Male,Abdominal pain,Diabetes,Asian,2,No,Breast,No
+852,34,Male,Persistent cough,History of smoking,Black,2,Yes,Colorectal,No
+853,71,Male,Fatigue,Previous ovarian cysts,Hispanic,5,Yes,Prostate,Yes
+854,50,Male,Skin changes,None,Black,5,Yes,Lung,No
+855,74,Female,Fatigue,History of smoking,Asian,5,Yes,Lung,Yes
+856,20,Female,Nausea,Hypertension,Asian,4,Yes,Pancreatic,Yes
+857,76,Female,Abdominal pain,Diabetes,Black,3,No,Pancreatic,Yes
+858,41,Female,Skin changes,Diabetes,White,3,Yes,Ovarian,Yes
+859,41,Female,Weight loss,History of smoking,Asian,1,Yes,Ovarian,Yes
+860,65,Female,Nausea,None,Asian,5,No,Kidney,Yes
+861,79,Female,Persistent cough,History of smoking,White,5,No,Colorectal,Yes
+862,43,Male,Skin changes,Diabetes,Hispanic,3,No,Prostate,Yes
+863,16,Female,Nausea,Hypertension,Hispanic,1,Yes,Lymphoma,No
+864,57,Female,Abdominal pain,Previous ovarian cysts,Black,1,No,Kidney,Yes
+865,79,Female,Skin changes,Previous ovarian cysts,White,4,Yes,Kidney,No
+866,66,Male,Persistent cough,History of smoking,White,2,No,Prostate,No
+867,62,Female,Fatigue,History of smoking,White,5,No,Breast,No
+868,64,Male,Skin changes,History of smoking,White,1,No,Melanoma,No
+869,57,Male,Lump in breast,Hypertension,White,1,Yes,Lymphoma,Yes
+870,38,Female,Fatigue,Diabetes,Hispanic,3,Yes,Leukemia,Yes
+871,58,Female,Weight loss,Diabetes,White,3,Yes,Lymphoma,Yes
+872,22,Female,Nausea,History of smoking,Asian,3,Yes,Breast,Yes
+873,43,Male,Weight loss,None,Hispanic,1,Yes,Melanoma,Yes
+874,65,Male,Persistent cough,History of smoking,Asian,5,No,Pancreatic,No
+875,39,Male,Lump in breast,Previous ovarian cysts,White,5,Yes,Prostate,Yes
+876,51,Female,Skin changes,History of smoking,Black,1,No,Colorectal,No
+877,35,Female,Skin changes,History of smoking,Black,3,No,Pancreatic,Yes
+878,71,Male,Fatigue,Diabetes,Hispanic,2,No,Prostate,Yes
+879,52,Male,Skin changes,History of smoking,Hispanic,1,No,Breast,No
+880,31,Female,Nausea,Hypertension,Black,2,Yes,Lymphoma,No
+881,15,Female,Weight loss,None,Black,2,No,Leukemia,No
+882,50,Male,Nausea,Previous ovarian cysts,Hispanic,3,Yes,Lymphoma,Yes
+883,55,Female,Lump in breast,None,Asian,3,No,Pancreatic,No
+884,18,Female,Abdominal pain,Previous ovarian cysts,Asian,3,Yes,Pancreatic,Yes
+885,77,Female,Abdominal pain,Diabetes,White,3,No,Lung,Yes
+886,62,Male,Persistent cough,Diabetes,Black,2,No,Prostate,Yes
+887,64,Male,Lump in breast,Diabetes,Hispanic,4,Yes,Prostate,Yes
+888,56,Female,Nausea,None,White,3,No,Colorectal,No
+889,20,Female,Weight loss,Previous ovarian cysts,Asian,2,Yes,Lung,No
+890,36,Male,Fatigue,Previous ovarian cysts,Black,5,Yes,Kidney,Yes
+891,59,Female,Skin changes,History of smoking,Asian,4,No,Prostate,Yes
+892,51,Male,Abdominal pain,Previous ovarian cysts,Asian,4,No,Melanoma,Yes
+893,59,Male,Weight loss,Hypertension,Asian,3,No,Pancreatic,Yes
+894,67,Male,Nausea,Previous ovarian cysts,White,2,Yes,Leukemia,No
+895,74,Female,Abdominal pain,Previous ovarian cysts,Black,2,No,Lymphoma,No
+896,18,Male,Nausea,None,White,3,No,Prostate,No
+897,51,Female,Skin changes,None,Hispanic,5,No,Lung,No
+898,68,Male,Skin changes,Diabetes,Black,3,Yes,Colorectal,Yes
+899,35,Female,Abdominal pain,History of smoking,Black,2,No,Prostate,Yes
+900,27,Male,Abdominal pain,Hypertension,Hispanic,2,No,Breast,Yes
+901,79,Female,Nausea,Hypertension,White,1,No,Kidney,Yes
+902,52,Male,Abdominal pain,Hypertension,Black,1,Yes,Breast,No
+903,42,Male,Abdominal pain,Diabetes,Asian,1,No,Colorectal,Yes
+904,60,Male,Weight loss,None,Hispanic,5,Yes,Lung,No
+905,35,Male,Persistent cough,Hypertension,Hispanic,2,No,Pancreatic,Yes
+906,35,Female,Abdominal pain,Diabetes,Asian,5,Yes,Lymphoma,No
+907,63,Female,Persistent cough,Previous ovarian cysts,Hispanic,1,No,Lymphoma,No
+908,27,Male,Abdominal pain,History of smoking,Hispanic,3,Yes,Prostate,No
+909,47,Male,Nausea,Previous ovarian cysts,White,4,No,Lymphoma,Yes
+910,69,Female,Skin changes,Previous ovarian cysts,Hispanic,1,Yes,Lymphoma,Yes
+911,19,Male,Lump in breast,None,Asian,2,Yes,Pancreatic,Yes
+912,75,Male,Weight loss,None,White,1,Yes,Ovarian,No
+913,29,Male,Weight loss,Previous ovarian cysts,White,3,No,Breast,Yes
+914,48,Female,Abdominal pain,Hypertension,Hispanic,3,No,Breast,Yes
+915,37,Male,Persistent cough,Diabetes,Asian,4,No,Kidney,Yes
+916,38,Male,Nausea,Hypertension,Asian,5,No,Pancreatic,No
+917,21,Female,Lump in breast,Hypertension,White,5,No,Breast,Yes
+918,36,Female,Abdominal pain,Hypertension,Asian,1,No,Breast,No
+919,74,Male,Nausea,Hypertension,Hispanic,5,Yes,Prostate,Yes
+920,37,Female,Lump in breast,Diabetes,Black,3,Yes,Ovarian,Yes
+921,57,Female,Lump in breast,History of smoking,White,1,No,Kidney,Yes
+922,17,Female,Nausea,Hypertension,Hispanic,2,Yes,Kidney,No
+923,24,Female,Persistent cough,Hypertension,Asian,2,Yes,Ovarian,Yes
+924,49,Female,Abdominal pain,History of smoking,Asian,4,No,Lung,Yes
+925,79,Male,Fatigue,None,Hispanic,1,Yes,Lymphoma,Yes
+926,80,Male,Fatigue,None,Black,3,Yes,Colorectal,No
+927,29,Male,Skin changes,Hypertension,Black,4,No,Leukemia,Yes
+928,19,Male,Lump in breast,Previous ovarian cysts,Hispanic,2,No,Prostate,Yes
+929,56,Male,Skin changes,Previous ovarian cysts,Hispanic,4,Yes,Leukemia,Yes
+930,35,Male,Lump in breast,Previous ovarian cysts,Hispanic,1,No,Prostate,Yes
+931,43,Male,Skin changes,None,Asian,5,No,Pancreatic,Yes
+932,59,Female,Weight loss,Previous ovarian cysts,Asian,5,No,Breast,No
+933,16,Male,Abdominal pain,History of smoking,Asian,1,Yes,Prostate,No
+934,55,Male,Persistent cough,History of smoking,Hispanic,5,Yes,Lung,Yes
+935,58,Male,Persistent cough,None,Hispanic,3,Yes,Colorectal,Yes
+936,30,Male,Persistent cough,History of smoking,Asian,4,No,Colorectal,Yes
+937,70,Female,Lump in breast,History of smoking,Black,2,Yes,Breast,Yes
+938,15,Female,Weight loss,Previous ovarian cysts,Asian,4,Yes,Melanoma,Yes
+939,41,Female,Persistent cough,Diabetes,Asian,3,Yes,Kidney,No
+940,66,Male,Persistent cough,Hypertension,Asian,2,No,Kidney,Yes
+941,35,Male,Nausea,History of smoking,Black,5,No,Melanoma,Yes
+942,61,Male,Persistent cough,History of smoking,Hispanic,2,Yes,Ovarian,No
+943,28,Female,Skin changes,History of smoking,Black,5,Yes,Breast,Yes
+944,78,Male,Nausea,Hypertension,Black,1,No,Breast,No
+945,45,Male,Weight loss,Hypertension,Asian,5,Yes,Melanoma,Yes
+946,71,Female,Fatigue,Previous ovarian cysts,Hispanic,1,No,Lymphoma,Yes
+947,19,Male,Lump in breast,History of smoking,White,3,Yes,Prostate,Yes
+948,70,Male,Persistent cough,None,Black,3,No,Breast,No
+949,49,Female,Abdominal pain,Previous ovarian cysts,Asian,3,Yes,Pancreatic,No
+950,41,Male,Skin changes,Previous ovarian cysts,Black,1,Yes,Kidney,No
+951,56,Female,Weight loss,Previous ovarian cysts,Asian,4,No,Ovarian,Yes
+952,64,Female,Weight loss,None,Asian,2,Yes,Colorectal,Yes
+953,17,Male,Abdominal pain,Diabetes,White,3,No,Melanoma,Yes
+954,50,Female,Lump in breast,Hypertension,Black,4,Yes,Pancreatic,No
+955,50,Female,Weight loss,Hypertension,Hispanic,5,No,Prostate,No
+956,60,Female,Abdominal pain,Diabetes,Asian,1,No,Ovarian,No
+957,67,Male,Abdominal pain,Diabetes,White,3,No,Prostate,No
+958,50,Male,Skin changes,History of smoking,Hispanic,3,No,Lung,Yes
+959,29,Female,Nausea,Previous ovarian cysts,Black,2,No,Prostate,No
+960,42,Female,Skin changes,Hypertension,Black,5,Yes,Leukemia,No
+961,40,Female,Nausea,Diabetes,Black,2,No,Prostate,Yes
+962,21,Female,Lump in breast,None,Black,2,Yes,Lymphoma,Yes
+963,17,Female,Abdominal pain,None,Hispanic,5,No,Ovarian,No
+964,56,Male,Nausea,Hypertension,Hispanic,5,No,Melanoma,Yes
+965,75,Male,Weight loss,Diabetes,Hispanic,4,No,Ovarian,Yes
+966,64,Female,Weight loss,Hypertension,Hispanic,5,No,Melanoma,No
+967,19,Female,Lump in breast,Previous ovarian cysts,Black,4,Yes,Ovarian,Yes
+968,24,Male,Abdominal pain,Previous ovarian cysts,Asian,5,Yes,Leukemia,Yes
+969,34,Female,Fatigue,Diabetes,Asian,4,No,Kidney,No
+970,39,Male,Skin changes,Diabetes,Hispanic,1,Yes,Pancreatic,Yes
+971,26,Male,Nausea,None,Hispanic,5,Yes,Prostate,No
+972,37,Male,Nausea,Diabetes,Black,1,Yes,Ovarian,Yes
+973,79,Female,Weight loss,None,White,5,Yes,Kidney,No
+974,34,Male,Nausea,Previous ovarian cysts,Asian,1,No,Pancreatic,Yes
+975,53,Male,Persistent cough,None,White,1,Yes,Colorectal,Yes
+976,66,Male,Abdominal pain,Previous ovarian cysts,White,1,Yes,Lymphoma,Yes
+977,37,Female,Abdominal pain,Hypertension,White,3,No,Leukemia,No
+978,26,Female,Abdominal pain,Previous ovarian cysts,White,1,Yes,Lung,Yes
+979,71,Female,Persistent cough,Diabetes,Black,2,No,Lung,No
+980,67,Female,Nausea,Diabetes,Asian,4,Yes,Prostate,No
+981,58,Male,Lump in breast,Hypertension,Black,2,Yes,Pancreatic,No
+982,35,Male,Lump in breast,None,Black,1,No,Leukemia,No
+983,79,Female,Lump in breast,History of smoking,Asian,1,Yes,Prostate,No
+984,79,Female,Skin changes,Diabetes,White,3,No,Lymphoma,No
+985,52,Male,Abdominal pain,History of smoking,Black,4,No,Prostate,Yes
+986,67,Male,Nausea,History of smoking,White,1,No,Melanoma,Yes
+987,19,Male,Lump in breast,None,Hispanic,4,No,Colorectal,Yes
+988,70,Female,Skin changes,Hypertension,Hispanic,4,Yes,Leukemia,Yes
+989,45,Female,Nausea,Previous ovarian cysts,Black,2,Yes,Leukemia,No
+990,62,Male,Nausea,Previous ovarian cysts,White,3,No,Lung,No
+991,63,Male,Fatigue,History of smoking,Asian,1,Yes,Kidney,Yes
+992,68,Male,Persistent cough,History of smoking,Hispanic,5,No,Prostate,Yes
+993,75,Female,Weight loss,Diabetes,Hispanic,5,No,Breast,No
+994,61,Male,Fatigue,Previous ovarian cysts,Asian,5,Yes,Prostate,No
+995,21,Male,Persistent cough,Hypertension,Hispanic,1,No,Ovarian,Yes
+996,73,Male,Lump in breast,History of smoking,White,4,Yes,Pancreatic,No
+997,63,Male,Weight loss,None,Asian,1,Yes,Colorectal,No
+998,58,Female,Persistent cough,None,Black,4,No,Breast,Yes
+999,56,Female,Nausea,History of smoking,Asian,2,Yes,Leukemia,No
+1000,75,Female,Fatigue,Previous ovarian cysts,White,1,Yes,Prostate,Yes
